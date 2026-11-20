@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# .NET
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Node / React
+node_modules/
+**/node_modules/
+
+# Environment / secrets
+.env
+.env.*
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
